@@ -1,1 +1,3 @@
 vamos ver se agora o git reconhece alguma mudança no projeto 
+
+Prof, tive um problema, depois de subir o projeto tive que editar a classe mas não subia as alterações que o eclipse fazia. Daí editei o arquivo no VS e foi. 
