@@ -3,7 +3,8 @@ package cpf;
 import java.util.Scanner;
 
 public class Validador_CPF {
-	
+	//dedmeodmeodmeomdodmoemdoemdoemdoedoemdoeodmeodoedmeodmeodoedmeodmeodmeodmeodmoedmeodmeodeodeommdoemo
+	//emdoememdoedomemdoeomdmoedmoeomdmsçalds,ldmalrfmo
 	public static void main(String[] args) {
 		
 		Scanner teclado = new Scanner(System.in);
